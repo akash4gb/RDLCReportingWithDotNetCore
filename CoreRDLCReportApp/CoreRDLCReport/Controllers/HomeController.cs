@@ -19,6 +19,13 @@ public class HomeController : Controller
     }
     public IActionResult Print()
     {
+        string mimeType = "";
+        int exention = 1;
+        var path = $"{this._webHostEnvironment.WebRootPath}\\Reports\\TestReport.rdlc";
+
+        Dictionary<string, string> parameters = new Dictionary<string, string>();
+        parameters.Add("title", "Test RDLC report");
+
         return View();
     }
 
