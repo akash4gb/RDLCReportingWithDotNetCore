@@ -14,6 +14,7 @@ public class HomeController : Controller
     public HomeController(IWebHostEnvironment webHostEnvironment)
     {
         _webHostEnvironment = webHostEnvironment;
+        System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
     }
 
     public IActionResult Index()
@@ -27,7 +28,7 @@ public class HomeController : Controller
 
         string mimeType = "";
         int exention = 1;
-        var path = $"{this._webHostEnvironment.WebRootPath}\\Reports\\TestReport.rdlc";
+        var path = $@"{this._webHostEnvironment.WebRootPath}\Reports\TestReport.rdlc";
 
         Dictionary<string, string> parameters = new Dictionary<string, string>();
         parameters.Add("title", "Test RDLC report");
