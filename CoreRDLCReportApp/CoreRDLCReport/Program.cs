@@ -2,6 +2,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.WebHost.UseContentRoot(Directory.GetCurrentDirectory());
+//builder.Host.UseContentRoot("wwwroot");
+builder.WebHost.UseWebRoot("wwwroot");
 
 var app = builder.Build();
 

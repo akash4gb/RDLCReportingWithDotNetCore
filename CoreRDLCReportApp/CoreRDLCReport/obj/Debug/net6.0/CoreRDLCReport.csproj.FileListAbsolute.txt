@@ -1,0 +1,8 @@
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.csproj.AssemblyReference.cache
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.AssemblyInfoInputs.cache
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.AssemblyInfo.cs
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.csproj.CoreCompileInputs.cache
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.RazorAssemblyInfo.cache
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.RazorAssemblyInfo.cs
