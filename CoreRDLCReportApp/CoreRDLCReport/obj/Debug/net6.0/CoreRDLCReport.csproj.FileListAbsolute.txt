@@ -40,3 +40,14 @@ C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCRepor
 C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.pdb
 C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\CoreRDLCReport.genruntimeconfig.cache
 C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\obj\Debug\net6.0\ref\CoreRDLCReport.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LPL_DEV\OneDrive - Labaid Pharmaceutical Ltd\Desktop\Practice\RDLCReportingWithDotNetCore\CoreRDLCReportApp\CoreRDLCReport\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
